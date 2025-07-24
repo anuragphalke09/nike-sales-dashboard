@@ -5,7 +5,7 @@ This project presents a Power BI Dashboard visualizing Nike sales data, includin
 Project Structure
 
 - Dataset: Sourced from Kaggle (Nike Sales Dataset).
-    Kaggle: [Nike Sales Dataset](https://www.kaggle.com/) (used for learning purposes)
+    Kaggle: [Nike Sales Dataset](https://www.kaggle.com/datasets/nayakganesh007/nike-sales-uncleaned-dataset) (used for learning purposes)
 - Tool Used: Power BI (with Power Query for cleaning and DAX for calculations).
 - Main File: `.pbix` (Power BI file containing the dashboard).
 - Image: Dashboard screenshot for reference.
